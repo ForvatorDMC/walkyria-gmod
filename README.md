@@ -1,4 +1,4 @@
-# Garry's Mod Cheat 🎮
+# Walkyria Garry's Mod Cheat 🎮
 
 A collection of scripts, tools, and cheats for Garry's Mod to enhance your gameplay experience. **Use responsibly and only in appropriate environments (e.g., single-player or private servers).**
 
